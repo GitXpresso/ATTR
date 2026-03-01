@@ -6,12 +6,15 @@
 - [ ] Finish project 
 ## Recovered themes:
 ### Firefly
-![Firefly](https://github.com/GitXpresso/ATTR/blob/main/797185.png?raw=true)
+![Firefly](https://github.com/GitXpresso/ATTR/blob/main/imgs/Firefly.png?raw=true)
 ### Landscape
-![Landscape](https://github.com/GitXpresso/ATTR/blob/main/EZ68pA.jpg?raw=true)
+![Landscape](https://github.com/GitXpresso/ATTR/blob/main/imgs/Landscape.jpg?raw=true)
 ### Planetarium
-![Planetarium](https://github.com/GitXpresso/ATTR/blob/main/IMG_20230715_011416.jpg?raw=true)
+![Planetarium](https://github.com/GitXpresso/ATTR/blob/main/imgs/planetarium.jpg?raw=true)
 ### Fox theme
-![foxtheme](https://github.com/GitXpresso/ATTR/blob/main/3175622.png?raw=true)
+![foxtheme](https://github.com/GitXpresso/ATTR/blob/main/imgs/FoxTheme.png?raw=true)
+### Wild Sunrise
+![Wild 
+Sunrise](https://github.com/GitXpresso/ATTR/blob/main/imgs/WildSunrise.jpg?raw=true)
 
 > _Made possible with this blog: https://voxelmanip.se/notes/recovering-expired-discord-attachment-cdn-links/ :3_
