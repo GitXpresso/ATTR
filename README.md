@@ -7,6 +7,7 @@
 ![Firefly](https://github.com/GitXpresso/ATTR/blob/main/797185.png?raw=true)
 ### Landscape
 ![Landscape](https://github.com/GitXpresso/ATTR/blob/main/EZ68pA.jpg?raw=true)
-![Planetarium](https;//github.com/GitXpresso/ATTR/blob/main/[IMG_20230715_011416.jpg?raw=true)
+### Planetarium
+![Planetarium](https://github.com/GitXpresso/ATTR/blob/main/IMG_20230715_011416.jpg?raw=true)
 
 > _Made possible with this blog: https://voxelmanip.se/notes/recovering-expired-discord-attachment-cdn-links/ :3_
