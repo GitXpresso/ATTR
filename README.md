@@ -18,5 +18,5 @@
 ![Wild 
 Sunrise](https://github.com/GitXpresso/ATTR/blob/main/imgs/WildSunrise.jpg?raw=true)
 ### Actually Gradient
-![Actually Gradient](https://github.com/GitXpresso/ATTR/blob/main/imgs/WildSunrise.jpg?raw=true)
+![Actually Gradient](https://github.com/GitXpresso/ATTR/blob/main/imgs/actuallygradient.png?raw=true)
 > _Made possible with this blog: https://voxelmanip.se/notes/recovering-expired-discord-attachment-cdn-links/ :3_
