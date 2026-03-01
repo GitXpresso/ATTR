@@ -1,9 +1,9 @@
 # ATTR
 **A**liucord **T**ransparent **T**heme **R**ecovery
 #### Tasks:
-- [ ] recreate fixed .json files
+- [X] recreate fixed .json files
 - [ ] reupload recovered themes to aliucord discord channel
-- [ ] organize root dir
+- [X] organize root dir
 - [ ] Finish project 
 ## Recovered themes:
 ### Firefly
