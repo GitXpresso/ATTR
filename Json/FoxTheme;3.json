@@ -1,7 +1,7 @@
 {
     "manifest": {
         "version": "1.0.1",
-        "author": "Gitxpresso#1",
+        "author": "Gitxpresso",
         "license": "CEA",
         "name": "Fox Theme",
         "updater": "https:\/\/raw.githubusercontent.com\/GitXpreso\/ATTR\/main\/FoxTheme%3B3.json"
