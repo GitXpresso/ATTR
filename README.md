@@ -1,7 +1,8 @@
 # ATTR
 #### Tasks:
-* recreate fixed .json files
-* reupload recovered themes to aliucord discord channel
+- [ ] recreate fixed .json files
+- [ ] reupload recovered themes to aliucord discord channel
+- [ ] Finish project 
 ## Recovered themes:
 ### Firefly
 ![Firefly](https://github.com/GitXpresso/ATTR/blob/main/797185.png?raw=true)
