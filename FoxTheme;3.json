@@ -1,7 +1,7 @@
 {
     "manifest": {
         "version": "1.0.1",
-        "author": "Sakiro#6328",
+        "author": "Gitxpresso#1",
         "license": "CEA",
         "name": "Fox Theme",
         "updater": "https:\/\/raw.githubusercontent.com\/GitXpreso\/ATTR\/main\/FoxTheme%3B3.json"
@@ -12,9 +12,8 @@
         "url": "https:\/\/github.com\/GitXpresso\/ATTR\/blob\/main\/3175622.png?raw=true"
     },
     "fonts": {
-        "*": "https:\/\/cdn.discordapp.com\/attachments\/940678530197491775\/996884689686102177\/VarelaRound-Regular.ttf"
-    },
-    "simple_colors": {
+        "*": "https:\/\/github.com\/GitXpresso\/ATTR\/raw\/refs\/heads\/main\/Fonts\/VarelaRound-Regular.ttf"
+        "simple_colors": {
         "active_channel": -874675914,
         "accent": -85681570,
         "mention_highlight": 686070366,
