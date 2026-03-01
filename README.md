@@ -1,4 +1,5 @@
 # ATTR
+**A**liucord **T**ransparent **T**heme **R**ecovery
 #### Tasks:
 - [ ] recreate fixed .json files
 - [ ] reupload recovered themes to aliucord discord channel
@@ -12,7 +13,7 @@
 ### Planetarium
 ![Planetarium](https://github.com/GitXpresso/ATTR/blob/main/imgs/planetarium.jpg?raw=true)
 ### Fox theme
-![foxtheme](https://github.com/GitXpresso/ATTR/blob/main/imgs/FoxTheme.png?raw=true)
+![foxtheme](https://github.com/GitXpresso/ATTR/blob/main/imgs/foxtheme.png?raw=true)
 ### Wild Sunrise
 ![Wild 
 Sunrise](https://github.com/GitXpresso/ATTR/blob/main/imgs/WildSunrise.jpg?raw=true)
