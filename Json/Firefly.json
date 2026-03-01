@@ -3,7 +3,7 @@
         "author": "Gitxpresso",
         "version": "1.0.2",
         "name": "Firefly",
-        "updater": "https:\/\/raw.githubusercontent.com\/Vendicated\/AliucordPlugins\/main\/Themer\/Firefly.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/GitXpresso/ATTR\/refs\/heads\/main\/Json\/Firefly.json"
     },
     "background": {
         "url": "https:\/\/github.com\/GitXpresso\/ATTR\/blob\/main\/imgs\/Firefly.png?raw=true",
