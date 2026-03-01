@@ -4,7 +4,7 @@
         "name": "Actually Gradient",
         "version": "1.0.1",
         "license": "OPL 3.0",
-        "updater": "https:\/\/raw.githubusercontent.com\/ceferix\/alucordthemes\/main\/actuallygradient.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/GitXpresso\/ATTR\/refs\/heads\/main\/Json\/Actually_Gradient.json"
     },
     "background": {
         "overlay_alpha": 50,
