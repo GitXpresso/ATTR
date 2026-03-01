@@ -3,7 +3,7 @@
         "author": "gitxpresso",
         "name": "Planetarium",
         "version": "1.0.1",
-        "updater": "https:\/\/raw.githubusercontent.com\/splatchoot\/AliucordGalacticTheme\/main\/Planetarium.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/GitXpresso\/ATTR\/refs\/heads\/main\/Json\/Planetarium.json"
     },
     "background": {
         "overlay_alpha": 175,
