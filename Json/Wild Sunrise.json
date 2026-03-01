@@ -1,14 +1,14 @@
 {
     "manifest": {
-        "author": "gitxpresso",
+        "author": "Gitxpresso",
         "version": "6.9.1",
         "name": "Wild Sunrise",
         "license": "Enter the forest",
-        "updater": "https:\/\/raw.githubusercontent.com\/WeltFlowers\/Aliucord-themes\/main\/Wild%20Sunrise.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/GitXpresso\/ATTR\/refs\/heads\/main\/Json\/Wild%20Sunrise.json"
     },
     "background": {
         "overlay_alpha": 0,
-        "url": "https:\/\/media.discordapp.net\/attachments\/1125562663552954388\/1128369132199481435\/aafb8fe6c8f215adf23e2c3e89847707.jpg"
+        "url": "https:\/\/github.com\/GitXpresso\/ATTR\/blob\/main\/imgs\/WildSunrise.jpg?raw=true"
     },
     "fonts": {},
     "simple_colors": {
