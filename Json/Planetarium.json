@@ -1,16 +1,16 @@
 {
     "manifest": {
-        "author": "splatchoot",
+        "author": "gitxpresso",
         "name": "Planetarium",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "updater": "https:\/\/raw.githubusercontent.com\/splatchoot\/AliucordGalacticTheme\/main\/Planetarium.json"
     },
     "background": {
         "overlay_alpha": 175,
-        "url": "https:\/\/github.com\/GitXpresso\/ATTR\/blob\/main\/IMG_20230715_011416.jpg?raw=true"
+        "url": "https:\/\/github.com\/GitXpresso\/ATTR\/blob\/main\/imgs\/planetarium?raw=true"
     },
     "fonts": {
-        "*": "https:\/\/cdn.discordapp.com\/attachments\/871403567670493194\/1129555266749345793\/Cartesian-4B576.ttf"
+        "*": "https:\/\/github.com.com\/GitXpresso\/ATTR\/raw\/refs\/heads\//main\/Fonts\/Cartesian-4B576.ttf"
     },
     "simple_colors": {
         "background": 14516534,
