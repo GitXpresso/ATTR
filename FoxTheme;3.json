@@ -13,6 +13,7 @@
     },
     "fonts": {
         "*": "https:\/\/github.com\/GitXpresso\/ATTR\/raw\/refs\/heads\/main\/Fonts\/VarelaRound-Regular.ttf"
+    },
         "simple_colors": {
         "active_channel": -874675914,
         "accent": -85681570,
