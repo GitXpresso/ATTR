@@ -4,7 +4,7 @@
         "author": "Gitxpresso",
         "license": "CEA",
         "name": "Fox Theme",
-        "updater": "https:\/\/raw.githubusercontent.com\/GitXpresso\/ATTR/refs\/heads\/main\/Json\/FoxTheme%3B3.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/GitXpresso\/ATTR/refs\/heads\/main\/FoxTheme%3B3.json"
     },
     "background": {
         "overlay_alpha": 120,
