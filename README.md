@@ -1,6 +1,6 @@
 # ATTR
 **A**liucord **T**ransparent **T**heme **R**ecovery
-
+Goal: To recover all aliucord transparent themes and republish theme on the aliucord #themes discord channel
 </details>
 <details><summary>Tasks:</summary>
 
@@ -17,6 +17,7 @@
 <details><summary>Themes index</summary>
 
 - [Beautiful Themes](#Beautiful-Themes)
+- [Gradient Themes](#Gradient-themes)
 
 </details>
 
@@ -33,6 +34,11 @@
 ### Wild Sunrise
 ![Wild 
 Sunrise](https://github.com/GitXpresso/ATTR/blob/main/imgs/WildSunrise.jpg?raw=true)
+## Gradient Themes:
 ### Actually Gradient
 ![Actually Gradient](https://github.com/GitXpresso/ATTR/blob/main/imgs/actuallygradient.png?raw=true)
+### Animated Themes:
+### Anime Vibe:
+![Anime Vibe](https://github.com/GitXpresso/ATTR/blob/main/imgs/animevibe.gif?raw=true)
+
 > _Made possible with this blog: https://voxelmanip.se/notes/recovering-expired-discord-attachment-cdn-links/ :3_
