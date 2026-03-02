@@ -44,7 +44,7 @@ Sunrise](https://github.com/GitXpresso/ATTR/blob/main/imgs/WildSunrise.jpg?raw=t
 ### Dark Matter
 ![Dark Matter](https://github.com/GitXpresso/ATTR/blob/main/imgs/DarkMatter?raw=true)
 ### Day and Night
-![Day and Night](https://github.com/GitXpresso/ATTR/blob/main/imgs/Day_Night.png?raw=true)
+![Day and Night](https://github.com/GitXpresso/ATTR/blob/main/imgs/day_night.jpg?raw=true)
 ## Gradient Themes:
 ### Actually Gradient
 ![Actually Gradient](https://github.com/GitXpresso/ATTR/blob/main/imgs/actuallygradient.png?raw=true)
