@@ -41,6 +41,8 @@ Sunrise](https://github.com/GitXpresso/ATTR/blob/main/imgs/WildSunrise.jpg?raw=t
 ![Leo](https://github.com/GitXpresso/ATTR/blob/main/imgs/leo.jpeg?raw=true)
 ### Lakes & Pines
 ![Lakes and Pines](https://github.com/GitXpresso/ATTR/blob/main/imgs/Lakes_Pines.jpg?raw=true)
+### Dark Matter
+![Dark Matter](https://github.com/GitXpresso/ATTR/blob/main/imgs/DarkMatter?raw=true)
 ## Gradient Themes:
 ### Actually Gradient
 ![Actually Gradient](https://github.com/GitXpresso/ATTR/blob/main/imgs/actuallygradient.png?raw=true)
