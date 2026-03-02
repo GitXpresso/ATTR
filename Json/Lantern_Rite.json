@@ -3,7 +3,7 @@
         "version": "2.0.0",
         "name": "Lantern Rite",
         "author": "Gitxpresso",
-        "updater": "https:\/\/raw.githubusercontent.com\/GitXpresso\/ATTR\/refs\/heads\/main\/Json\/LanternRite\/LanternRite.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/GitXpresso\/ATTR\/refs\/heads\/main\/Json\/LanternRite\/Lantern_Rite.json"
     },
     "background": {
         "blur_radius": 3,
