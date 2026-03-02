@@ -1,12 +1,17 @@
 # ATTR
 **A**liucord **T**ransparent **T**heme **R**ecovery
-#### Tasks:
+
+</details><summary>Tasks</summary>
+
 - [X] recreate fixed .json files
 - [ ] reupload recovered themes to aliucord discord channel
 - [X] organize root dir
 - [ ] Finish project
 - [X] Add a directory for theme screenshots
 - [ ] Add screenshots of all recovered transparent themes to screenshot dir
+
+</details> 
+
 ## Recovered themes:
 ### Firefly
 ![Firefly](https://github.com/GitXpresso/ATTR/blob/main/imgs/Firefly.png?raw=true)
