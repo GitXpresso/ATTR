@@ -18,6 +18,7 @@ Goal: To recover all aliucord transparent themes and republish theme on the aliu
 
 - [Beautiful Themes](#Beautiful-Themes)
 - [Gradient Themes](#Gradient-themes)
+- [Animated Themes](#Animated-themes)
 
 </details>
 
@@ -34,6 +35,8 @@ Goal: To recover all aliucord transparent themes and republish theme on the aliu
 ### Wild Sunrise
 ![Wild 
 Sunrise](https://github.com/GitXpresso/ATTR/blob/main/imgs/WildSunrise.jpg?raw=true)
+### Leo
+![Leo](https://github.com/GitXpresso/ATTR/blob/main/imgs/leo.jpeg?raw=true)
 ## Gradient Themes:
 ### Actually Gradient
 ![Actually Gradient](https://github.com/GitXpresso/ATTR/blob/main/imgs/actuallygradient.png?raw=true)
