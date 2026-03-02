@@ -4,7 +4,7 @@
         "version": "6.9.1",
         "name": "Wild Sunrise",
         "license": "Enter the forest",
-        "updater": "https:\/\/raw.githubusercontent.com\/GitXpresso\/ATTR\/refs\/heads\/main\/Json\/Wild%20Sunrise.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/GitXpresso\/ATTR\/refs\/heads\/main\/Json\/Wild%20Sunrise\/Wild%20Sunrise.json"
     },
     "background": {
         "overlay_alpha": 0,
