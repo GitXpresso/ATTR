@@ -1,7 +1,8 @@
 # ATTR
 **A**liucord **T**ransparent **T**heme **R**ecovery
 
-</details><summary>Tasks</summary>
+</details>
+<details><summary>Tasks:</summary>
 
 - [X] recreate fixed .json files
 - [ ] reupload recovered themes to aliucord discord channel
@@ -12,7 +13,15 @@
 
 </details> 
 
-## Recovered themes:
+</details>
+<details><summary>Themes index</summary>
+
+- [Beautiful Themes](#Beautiful-Themes)
+
+</details>
+
+## Beautiful Themes:
+#### Recovered themes
 ### Firefly
 ![Firefly](https://github.com/GitXpresso/ATTR/blob/main/imgs/Firefly.png?raw=true)
 ### Landscape
