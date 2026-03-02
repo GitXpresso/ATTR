@@ -19,6 +19,8 @@ Goal: To recover all aliucord transparent themes and republish theme on the aliu
 - [Beautiful Themes](#Beautiful-Themes)
 - [Gradient Themes](#Gradient-themes)
 - [Animated Themes](#Animated-themes)
+- [Anime Themes](#Anime-Themes)
+- [Animated Themes](#Animated-themes)
 
 </details>
 
@@ -40,8 +42,11 @@ Sunrise](https://github.com/GitXpresso/ATTR/blob/main/imgs/WildSunrise.jpg?raw=t
 ## Gradient Themes:
 ### Actually Gradient
 ![Actually Gradient](https://github.com/GitXpresso/ATTR/blob/main/imgs/actuallygradient.png?raw=true)
-### Animated Themes:
+### Animated Anime Themes:
 ### Anime Vibe:
 ![Anime Vibe](https://github.com/GitXpresso/ATTR/blob/main/imgs/animevibe.gif?raw=true)
+### Anime Themes:
+### Lantern Rite
+![Lantern Rite](https://github.com/GitXpresso/ATTR/blob/main/imgs/LanternRite.jpg?raw=true)
 
 > _Made possible with this blog: https://voxelmanip.se/notes/recovering-expired-discord-attachment-cdn-links/ :3_
