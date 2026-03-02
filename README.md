@@ -50,5 +50,7 @@ Sunrise](https://github.com/GitXpresso/ATTR/blob/main/imgs/WildSunrise.jpg?raw=t
 ### Anime Themes:
 ### Lantern Rite
 ![Lantern Rite](https://github.com/GitXpresso/ATTR/blob/main/imgs/LanternRite.jpg?raw=true)
+### Hu Tao Simp
+![Hu Tao Simp](https://github.com/GitXpresso/ATTR/blob/main/imgs/HuTaoSimp.jpg?raw=true)
 
 > _Made possible with this blog: https://voxelmanip.se/notes/recovering-expired-discord-attachment-cdn-links/ :3_
