@@ -2,7 +2,7 @@
     "manifest": {
         "author": "Gitxpresso",
         "name": "LandScape",
-        "updater": "https:\/\/raw.githubusercontent.com\/GitXpresso\/ATTR\/refs\/heads\/main\/Json\/Landscape\/Landscape.json",
+        "updater": "https:\/\/raw.githubusercontent.com\/GitXpresso\/ATTR\/refs\/heads\/main\/Json\/Landscape\/LandScape.json",
         "version": "1.0.2",
         "license": "OSL-3.0"
     },
