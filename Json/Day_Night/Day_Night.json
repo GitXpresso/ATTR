@@ -3,10 +3,11 @@
         "author": "Gitxpresso",
         "name": "Day And Night",
         "version": "0.2"
+        "updater": "https://github.com/gitxpresso/attr/refs/heads/main/Json/Day_Night/Day_Night.json"
     },
     "background": {
         "overlay_alpha": 0,
-        "url": "https:\/\/github.com\/GitXpresso\/ATTR\/blob\/main\/imgs\/Day_Night?raw=true"
+        "url": "https:\/\/github.com\/GitXpresso\/ATTR\/blob\/main\/imgs\/day_night.jpg?raw=true"
     },
     "fonts": {
         "*": "https:\/\/github.com\/GitXpresso\/ATTR\/raw\/refs\/heads\/main\/Fonts\/Cocogoose-Classic-Medium-trial.ttf",
