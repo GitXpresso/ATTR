@@ -39,6 +39,8 @@ Goal: To recover all aliucord transparent themes and republish theme on the aliu
 Sunrise](https://github.com/GitXpresso/ATTR/blob/main/imgs/WildSunrise.jpg?raw=true)
 ### Leo
 ![Leo](https://github.com/GitXpresso/ATTR/blob/main/imgs/leo.jpeg?raw=true)
+### Lakes & Pines
+![Lakes and Pines](https://github.com/GitXpresso/ATTR/blob/main/imgs/Lakes_Pines.jpg?raw=true)
 ## Gradient Themes:
 ### Actually Gradient
 ![Actually Gradient](https://github.com/GitXpresso/ATTR/blob/main/imgs/actuallygradient.png?raw=true)
