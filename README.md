@@ -51,6 +51,8 @@ Sunrise](https://github.com/GitXpresso/ATTR/blob/main/imgs/WildSunrise.jpg?raw=t
 ### Animated Anime Themes:
 ### Anime Vibe:
 ![Anime Vibe](https://github.com/GitXpresso/ATTR/blob/main/imgs/animevibe.gif?raw=true)
+### Among Us
+![Among Us](https://github.com/GitXpresso/ATTR/blob/main/imgs/among_us.gif?raw=true)
 ### Anime Themes:
 ### Lantern Rite
 ![Lantern Rite](https://github.com/GitXpresso/ATTR/blob/main/imgs/LanternRite.jpg?raw=true)
