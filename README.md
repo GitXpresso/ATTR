@@ -17,26 +17,40 @@ Goal: To recover all aliucord transparent themes and republish theme on the aliu
 <details><summary>Themes index</summary>
 
 - [Beautiful Themes](#Beautiful-Themes)
+
+</details>
+
+</details><summary>Beautiful Themes Index</summary>
+
+- [Fox theme](###Fox-Theme)
+  </details>
+  </details><summary>Preview</summary>
+
+   ![Fox theme Screenshot](https://github.com/gitxpresso/attr/blobs/main/screenshots/foxtheme2.png)
+
+  </details>
+</details>
+
 - [Gradient Themes](#Gradient-themes)
 - [Animated Themes](#Animated-themes)
 - [Anime Themes](#Anime-Themes)
 - [Animated Themes](#Animated-themes)
 
 </details>
-
+</ddetails>
 ## Beautiful Themes:
 #### Recovered themes
 ### Firefly
 ![Firefly](https://github.com/GitXpresso/ATTR/blob/main/imgs/Firefly.png?raw=true)
 ### Landscape
 ![Landscape](https://github.com/GitXpresso/ATTR/blob/main/imgs/Landscape.jpg?raw=true)
-### Planetarium
-![Planetarium](https://github.com/GitXpresso/ATTR/blob/main/imgs/planetarium.jpg?raw=true)
 ### Fox theme
 ![foxtheme](https://github.com/GitXpresso/ATTR/blob/main/imgs/foxtheme.png?raw=true)
 ### Wild Sunrise
 ![Wild 
 Sunrise](https://github.com/GitXpresso/ATTR/blob/main/imgs/WildSunrise.jpg?raw=true)
+### Golden River
+![GoldenRiver](https://github.com/GitXpresso/ATTR/blob/main/imgs/GoldenRiver.jpg?raw=true)
 ### Leo
 ![Leo](https://github.com/GitXpresso/ATTR/blob/main/imgs/leo.jpeg?raw=true)
 ### Lakes & Pines
@@ -45,6 +59,8 @@ Sunrise](https://github.com/GitXpresso/ATTR/blob/main/imgs/WildSunrise.jpg?raw=t
 ![Dark Matter](https://github.com/GitXpresso/ATTR/blob/main/imgs/DarkMatter?raw=true)
 ### Day and Night
 ![Day and Night](https://github.com/GitXpresso/ATTR/blob/main/imgs/day_night.jpg?raw=true)
+### Planetarium
+![Planetarium](https://github.com/GitXpresso/ATTR/blob/main/imgs/planetarium.jpg?raw=true)
 ## Gradient Themes:
 ### Actually Gradient
 ![Actually Gradient](https://github.com/GitXpresso/ATTR/blob/main/imgs/actuallygradient.png?raw=true)
