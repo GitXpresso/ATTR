@@ -10,34 +10,51 @@ Goal: To recover all aliucord transparent themes and republish theme on the aliu
 - [ ] Finish project
 - [X] Add a directory for theme screenshots
 - [ ] Add screenshots of all recovered transparent themes to screenshot dir
+- [ ] Finish dropdown index
 
-</details> 
+</details>
 
 </details>
 <details><summary>Themes index</summary>
 
-- [Beautiful Themes](#Beautiful-Themes)
+<details><summary>Beautiful Themes index</summary>
+
+- [Go-to: Beautiful Themes](#Beautiful-Themes)
+- [Fox Theme :3](###Fox-Theme)
+   * [View screenshots](#link-not-here)
+
+**Other anchor links will be here soon :3**
+
+</details>
+<details><summary>Gradient Themes Index</summary>
+
+- [Go-to: Gradient Themes](#Gradient-themes)
+- [Actually Gradient](###Actually-Gradient)
+   * [View screenshots](#link-not-here)
+
+
+</details>
+<details><summary>Animated Themes Index</summary>
+  
+- [Go-to: Animated Themes](#Animated-themes)
+- [AnimeVibe](###Anime-Vibe)
+   * [View Screenshots](#no-link-here)
+- [Among Us](###Among-Us)
+   * [View Screenshots](#no-link-here)
+
+</details>
+<details><summary>Anime Themes Index</summary>
+
+- [Go-to: Anime Themes](#Anime-Themes)
+- [Lantern Rite](###Lantern-Rite)
+   * [View Screenshots](#no-link-here)
+- [Hu Tao Simp](###Hu-Tap-Simp)
+   * [View Screenshots](#no-link-here)
 
 </details>
 
-</details><summary>Beautiful Themes Index</summary>
-
-- [Fox theme](###Fox-Theme)
-  </details>
-  </details><summary>Preview</summary>
-
-   ![Fox theme Screenshot](https://github.com/gitxpresso/attr/blobs/main/screenshots/foxtheme2.png)
-
-  </details>
 </details>
 
-- [Gradient Themes](#Gradient-themes)
-- [Animated Themes](#Animated-themes)
-- [Anime Themes](#Anime-Themes)
-- [Animated Themes](#Animated-themes)
-
-</details>
-</ddetails>
 ## Beautiful Themes:
 #### Recovered themes
 ### Firefly
