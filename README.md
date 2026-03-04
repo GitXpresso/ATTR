@@ -17,20 +17,37 @@ Goal: To recover all aliucord transparent themes and republish theme on the aliu
 </details>
 <details><summary>Themes index</summary>
 
+_"🤖" = wallpaper used in the theme looks AI generated._
+
 <details><summary>Beautiful Themes index</summary>
 
 - [Go-to: Beautiful Themes](#Beautiful-Themes)
 - [Fox Theme :3](#Fox-Theme)
-   * [View screenshots](#link-not-here)
-
-**Other anchor links will be here soon :3**
+   * [View Screenshots](#link-not-here_:3)
+- [Firefly](#Firefly)
+   * [View Screenshots](#link-not-here)
+- [Landscape](#Landscape)
+   * [View Screenshots](#No-link-here)
+- [Golden River](#Golden-River)
+   * [View Screenshots](#no-link-here)
+- [Wild Sunrise](#Wild-Sunrise)
+   * [View Screenshots](#no-link-here)
+- [Leo](#Leo)
+   * [View Screenshots](#no-link-here)
+- [Lakes & Pines](#Lakes-&-Pines)
+   * [View Screenshots](#no-link-here)
+- [Day and Night](#Day-And-Night)
+   * [View Screenshots](#no-link-here)
+- [Dark Matter](#Dark-Matter)
+   * [View Screenshots](#no-link-here)
+- [Planetarium 🤖](#Planetarium)
 
 </details>
 <details><summary>Gradient Themes Index</summary>
 
 - [Go-to: Gradient Themes](#Gradient-themes)
 - [Actually Gradient](#Actually-Gradient)
-   * [View screenshots](#link-not-here)
+   * [View Screenshots](#link-not-here)
 
 
 </details>
@@ -76,7 +93,7 @@ Sunrise](https://github.com/GitXpresso/ATTR/blob/main/imgs/WildSunrise.jpg?raw=t
 ![Dark Matter](https://github.com/GitXpresso/ATTR/blob/main/imgs/DarkMatter?raw=true)
 ### Day and Night
 ![Day and Night](https://github.com/GitXpresso/ATTR/blob/main/imgs/day_night.jpg?raw=true)
-### Planetarium
+### Planetarium 🤖
 ![Planetarium](https://github.com/GitXpresso/ATTR/blob/main/imgs/planetarium.jpg?raw=true)
 ## Gradient Themes:
 ### Actually Gradient
