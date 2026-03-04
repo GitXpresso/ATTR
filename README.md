@@ -20,7 +20,7 @@ Goal: To recover all aliucord transparent themes and republish theme on the aliu
 <details><summary>Beautiful Themes index</summary>
 
 - [Go-to: Beautiful Themes](#Beautiful-Themes)
-- [Fox Theme :3](###Fox-Theme)
+- [Fox Theme :3](#Fox-Theme)
    * [View screenshots](#link-not-here)
 
 **Other anchor links will be here soon :3**
@@ -29,7 +29,7 @@ Goal: To recover all aliucord transparent themes and republish theme on the aliu
 <details><summary>Gradient Themes Index</summary>
 
 - [Go-to: Gradient Themes](#Gradient-themes)
-- [Actually Gradient](###Actually-Gradient)
+- [Actually Gradient](#Actually-Gradient)
    * [View screenshots](#link-not-here)
 
 
@@ -37,18 +37,18 @@ Goal: To recover all aliucord transparent themes and republish theme on the aliu
 <details><summary>Animated Themes Index</summary>
   
 - [Go-to: Animated Themes](#Animated-themes)
-- [AnimeVibe](###Anime-Vibe)
+- [AnimeVibe](#Anime-Vibe)
    * [View Screenshots](#no-link-here)
-- [Among Us](###Among-Us)
+- [Among Us](#Among-Us)
    * [View Screenshots](#no-link-here)
 
 </details>
 <details><summary>Anime Themes Index</summary>
 
 - [Go-to: Anime Themes](#Anime-Themes)
-- [Lantern Rite](###Lantern-Rite)
+- [Lantern Rite](#Lantern-Rite)
    * [View Screenshots](#no-link-here)
-- [Hu Tao Simp](###Hu-Tap-Simp)
+- [Hu Tao Simp](#Hu-Tap-Simp)
    * [View Screenshots](#no-link-here)
 
 </details>
