@@ -8,8 +8,10 @@ Description: This markdown contains Screenshots of the Recovered themes so you c
 [**Go Back**](https://github.com/GitXpresso/ATTR/tree/main?tab=readme-ov-file#fox-theme)
 ### Discord Startup Screenshot:
 ![Discord Logo](../screenshots/FoxTheme/ft_discordlogo.png)
+<!--
 ### Conversation Screenshot:
 ![Discord Conversation](../screenshots/FoxTheme/convo_screenshot.png)
+-->
 ### Friendlist: 
 ![Discord Friendlist](../screenshots/FoxTheme/FT_Friendlist.png)
 ### Server Screenshot:
