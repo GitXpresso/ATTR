@@ -5,7 +5,7 @@ Description: This markdown contains Screenshots of the Recovered themes so you c
 
 
 ## Fox Theme Screenshots:
-[**Go Back**](#no-link-here)
+[**Go Back**](https://github.com/GitXpresso/ATTR/tree/main?tab=readme-ov-file#fox-theme)
 ### Discord Startup Screenshot:
 ![Discord Logo](../screenshots/FoxTheme/ft_discordlogo.png)
 ### Conversation Screenshot:
