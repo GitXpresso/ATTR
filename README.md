@@ -4,8 +4,6 @@
 **Goal:** To recover all aliucord transparent themes and republish theme on the aliucord #themes discord channel
 
 ## To-Do:
-</details>
-<details><summary>Tasks:</summary>
 
 - [X] recreate fixed .json files
 - [ ] reupload recovered themes to aliucord discord channel
@@ -15,10 +13,6 @@
 - [ ] Add screenshots of all recovered transparent themes to screenshot dir
 - [ ] Finish dropdown index
 
-</details>
-
-</details>
-
 ## Themes lists:
 
 _"🤖" = wallpaper used in the theme looks AI generated._
@@ -26,51 +20,52 @@ _"🤖" = wallpaper used in the theme looks AI generated._
 <details><summary>Beautiful Themes: </summary>
 
 - [Go-to: Beautiful Themes](#Beautiful-Themes)
-- [Fox Theme :3](#Fox-Theme)
-   * [View Screenshots](https://github.com/GitXpresso/ATTR/tree/main/screenshots#Fox_theme_screenshots)
-- [Firefly](#Firefly)
-   * [View Screenshots](#link-not-here)
-- [Landscape](#Landscape)
-   * [View Screenshots](#No-link-here)
-- [Golden River](#Golden-River)
-   * [View Screenshots](#no-link-here)
-- [Wild Sunrise](#Wild-Sunrise)
-   * [View Screenshots](#no-link-here)
-- [Leo](#Leo)
-   * [View Screenshots](#no-link-here)
-- [Lakes & Pines](#Lakes-&-Pines)
-   * [View Screenshots](#no-link-here)
-- [Day and Night](#Day-And-Night)
-   * [View Screenshots](#no-link-here)
-- [Dark Matter](#Dark-Matter)
-   * [View Screenshots](#no-link-here)
-- [Planetarium 🤖](#Planetarium)
+  - [Fox Theme :3](#Fox-Theme)
+     * [View Screenshots](https://github.com/GitXpresso/ATTR/tree/main/screenshots#Fox_theme_screenshots)
+  - [Firefly](#Firefly)
+     * [View Screenshots](#link-not-here)
+  - [Landscape](#Landscape)
+     * [View Screenshots](#No-link-here)
+  - [Golden River](#Golden-River)
+     * [View Screenshots](#no-link-here)
+  - [Wild Sunrise](#Wild-Sunrise)
+     * [View Screenshots](#no-link-here)
+  - [Leo](#Leo)
+     * [View Screenshots](#no-link-here)
+  - [Lakes & Pines](#Lakes-&-Pines)
+     * [View Screenshots](#no-link-here)
+  - [Day and Night](#Day-And-Night)
+     * [View Screenshots](#no-link-here)
+  - [Dark Matter](#Dark-Matter)
+     * [View Screenshots](#no-link-here)
+  - [Planetarium 🤖](#Planetarium)
+     * [View Screenshots](#no-link-here)
 
 </details>
 <details><summary>Gradient Themes: </summary>
 
 - [Go-to: Gradient Themes](#Gradient-themes)
-- [Actually Gradient](#Actually-Gradient)
-   * [View Screenshots](#link-not-here)
+  - [Actually Gradient](#Actually-Gradient)
+     * [View Screenshots](#link-not-here)
 
 
 </details>
 <details><summary>Animated Themes: </summary>
   
 - [Go-to: Animated Themes](#Animated-themes)
-- [AnimeVibe](#Anime-Vibe)
-   * [View Screenshots](#no-link-here)
-- [Among Us](#Among-Us)
-   * [View Screenshots](#no-link-here)
+  - [AnimeVibe](#Anime-Vibe)
+     * [View Screenshots](#no-link-here)
+  - [Among Us](#Among-Us)
+     * [View Screenshots](#no-link-here)
 
 </details>
 <details><summary>Anime Themes: </summary>
 
 - [Go-to: Anime Themes](#Anime-Themes)
-- [Lantern Rite](#Lantern-Rite)
-   * [View Screenshots](#no-link-here)
-- [Hu Tao Simp](#Hu-Tap-Simp)
-   * [View Screenshots](#no-link-here)
+  - [Lantern Rite](#Lantern-Rite)
+     * [View Screenshots](#no-link-here)
+  - [Hu Tao Simp](#Hu-Tap-Simp)
+     * [View Screenshots](#no-link-here)
 
 </details>
 
