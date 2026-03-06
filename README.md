@@ -23,7 +23,7 @@ _"🤖" = wallpaper used in the theme looks AI generated._
 
 - [Go-to: Beautiful Themes](#Beautiful-Themes)
 - [Fox Theme :3](#Fox-Theme)
-   * [View Screenshots](#link-not-here_:3)
+   * [View Screenshots](https://github.com/GitXpresso/ATTR/tree/main/screenshots#Fox_theme_screenshots)
 - [Firefly](#Firefly)
    * [View Screenshots](#link-not-here)
 - [Landscape](#Landscape)
