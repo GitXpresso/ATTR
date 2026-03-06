@@ -16,4 +16,3 @@ Description: This markdown contains Screenshots of the Recovered themes so you c
 ![Server list](../screenshots/FoxTheme/FT_Server.png)
 ### Discord Settings:
 ![Discord Settings](../screenshots/FoxTheme/FT_Settings.png)
-[**Go to the top of the page**](#Screenshots)
