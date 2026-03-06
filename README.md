@@ -1,6 +1,9 @@
 # ATTR
 **A**liucord **T**ransparent **T**heme **R**ecovery
-Goal: To recover all aliucord transparent themes and republish theme on the aliucord #themes discord channel
+
+**Goal:** To recover all aliucord transparent themes and republish theme on the aliucord #themes discord channel
+
+## To-Do:
 </details>
 <details><summary>Tasks:</summary>
 
@@ -15,11 +18,12 @@ Goal: To recover all aliucord transparent themes and republish theme on the aliu
 </details>
 
 </details>
-<details><summary>Themes index</summary>
+
+## Themes lists:
 
 _"🤖" = wallpaper used in the theme looks AI generated._
 
-<details><summary>Beautiful Themes index</summary>
+<details><summary>Beautiful Themes: </summary>
 
 - [Go-to: Beautiful Themes](#Beautiful-Themes)
 - [Fox Theme :3](#Fox-Theme)
@@ -43,7 +47,7 @@ _"🤖" = wallpaper used in the theme looks AI generated._
 - [Planetarium 🤖](#Planetarium)
 
 </details>
-<details><summary>Gradient Themes Index</summary>
+<details><summary>Gradient Themes: </summary>
 
 - [Go-to: Gradient Themes](#Gradient-themes)
 - [Actually Gradient](#Actually-Gradient)
@@ -51,7 +55,7 @@ _"🤖" = wallpaper used in the theme looks AI generated._
 
 
 </details>
-<details><summary>Animated Themes Index</summary>
+<details><summary>Animated Themes: </summary>
   
 - [Go-to: Animated Themes](#Animated-themes)
 - [AnimeVibe](#Anime-Vibe)
@@ -60,15 +64,13 @@ _"🤖" = wallpaper used in the theme looks AI generated._
    * [View Screenshots](#no-link-here)
 
 </details>
-<details><summary>Anime Themes Index</summary>
+<details><summary>Anime Themes: </summary>
 
 - [Go-to: Anime Themes](#Anime-Themes)
 - [Lantern Rite](#Lantern-Rite)
    * [View Screenshots](#no-link-here)
 - [Hu Tao Simp](#Hu-Tap-Simp)
    * [View Screenshots](#no-link-here)
-
-</details>
 
 </details>
 
