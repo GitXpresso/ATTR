@@ -13,7 +13,7 @@
 - [ ] Add screenshots of all recovered transparent themes to screenshot dir
 - [ ] Finish dropdown index
 
-## Themes lists:
+## Table 0f Contents:
 
 _"🤖" = wallpaper used in the theme looks AI generated._
 
@@ -27,6 +27,8 @@ _"🤖" = wallpaper used in the theme looks AI generated._
   - [Landscape](#Landscape)
     * [View Screenshots](#No-link-here)
   - [Golden River](#Golden-River)
+    * [View Screenshots](#no-link-here)
+  - [Policy](#Policy)
     * [View Screenshots](#no-link-here)
   - [Wild Sunrise](#Wild-Sunrise)
     * [View Screenshots](#no-link-here)
@@ -77,6 +79,8 @@ _"🤖" = wallpaper used in the theme looks AI generated._
 ![Landscape](https://github.com/GitXpresso/ATTR/blob/main/imgs/Landscape.jpg?raw=true)
 ### Fox theme
 ![foxtheme](https://github.com/GitXpresso/ATTR/blob/main/imgs/foxtheme.png?raw=true)
+### Policy
+![Policy](https://github.com/GitXpresso/ATTR/blob/main/imgs/Policy.jpg?raw=true)
 ### Wild Sunrise
 ![Wild 
 Sunrise](https://github.com/GitXpresso/ATTR/blob/main/imgs/WildSunrise.jpg?raw=true)
