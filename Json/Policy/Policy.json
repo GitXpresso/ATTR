@@ -6,7 +6,7 @@
         "updater": "https:\/\/raw.githubusercontent.com\/GitXpresso\/ATTR/refs\/heads\/main\/Json\/Policy\/Policy.json"
     },
     "background": {
-        "url": "https:\/\/github.com\/GitXpresso\/ATTR\/blob\/main\/imgs\/Policy.jpg"
+        "url": "https:\/\/github.com\/GitXpresso\/ATTR\/blob\/main\/imgs\/Policy.jpg?raw=true"
     },
     "fonts": {
         "*": "https:\/\/github.com\/GitXpresso\/ATTR\/raw\/refs\/heads\/main\/Fonts\/oh-whale-ttf.ttf"
