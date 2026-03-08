@@ -46,7 +46,7 @@ _"🤖" = wallpaper used in the theme looks AI generated._
 
 - [Go-to: Gradient Themes](#Gradient-themes)
   - [Actually Gradient](#Actually-Gradient)
-    * [View Screenshots](#link-not-here)
+    *  [View Screenshots](#link-not-here)
 
 
 </details>
@@ -54,9 +54,9 @@ _"🤖" = wallpaper used in the theme looks AI generated._
   
 - [Go-to: Animated Themes](#Animated-themes)
   - [AnimeVibe](#Anime-Vibe)
-    * [View Screenshots](#no-link-here)
+    *  [View Screenshots](#no-link-here)
   - [Among Us](#Among-Us)
-    * [View Screenshots](#no-link-here)
+    *  [View Screenshots](#no-link-here)
 
 </details>
 <details><summary>Anime Themes: </summary>
