@@ -11,6 +11,7 @@
 - [ ] Finish project
 - [X] Add a directory for theme screenshots
 - [ ] Add screenshots of all recovered transparent themes to screenshot dir
+- [ ] Combine /screenshots/README.md with /README.md (main markdown)
 - [ ] Finish dropdown index
 
 ## Table 0f Contents:
@@ -29,6 +30,8 @@ _"🤖" = wallpaper used in the theme looks AI generated._
   - [Golden River](#Golden-River)
     * [View Screenshots](#no-link-here)
   - [Policy](#Policy)
+    * [View Screenshots](#no-link-here)
+  - [Sapphire Mountains](#Sapphire-Mountains)
     * [View Screenshots](#no-link-here)
   - [Wild Sunrise](#Wild-Sunrise)
     * [View Screenshots](#no-link-here)
@@ -81,6 +84,8 @@ _"🤖" = wallpaper used in the theme looks AI generated._
 ![foxtheme](https://github.com/GitXpresso/ATTR/blob/main/imgs/foxtheme.png?raw=true)
 ### Policy
 ![Policy](https://github.com/GitXpresso/ATTR/blob/main/imgs/Policy.jpg?raw=true)
+### Sapphire Mountains
+![Sapphire Mountains](https://github.com/GitXpresso/ATTR/blob/main/imgs/Sapphire_Mountains.jpg?raw=true)
 ### Wild Sunrise
 ![Wild 
 Sunrise](https://github.com/GitXpresso/ATTR/blob/main/imgs/WildSunrise.jpg?raw=true)
