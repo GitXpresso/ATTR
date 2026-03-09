@@ -41,17 +41,26 @@ _"🤖" = wallpaper used in the theme looks AI generated._
     * [View Screenshots](#no-link-here)
   - [Day and Night](#Day-And-Night)
     *  [View Screenshots](#no-link-here)
-  - [Dark Matter](#Dark-Matter)
-    * [View Screenshots](#no-link-here)
   - [Planetarium 🤖](#Planetarium)
     * [View Screenshots](#no-link-here)
+
+</details>
+<details><summary>Space Themes: </summary>
+
+- [Go-to: Space Themes](#Space-Themes)
+  - [Dark Matter](#Dark-Matter)
+    * [View Screenshots](#link-not-here)
+  - [Cosmaute](#Cosmaute)
+    * [View Screenshots](#link-not-here)
+
+</details>
 
 </details>
 <details><summary>Gradient Themes: </summary>
 
 - [Go-to: Gradient Themes](#Gradient-themes)
   - [Actually Gradient](#Actually-Gradient)
-    *  [View Screenshots](#link-not-here)
+    * [View Screenshots](#link-not-here)
 
 
 </details>
@@ -59,9 +68,9 @@ _"🤖" = wallpaper used in the theme looks AI generated._
   
 - [Go-to: Animated Themes](#Animated-themes)
   - [AnimeVibe](#Anime-Vibe)
-    *  [View Screenshots](#no-link-here)
+    * [View Screenshots](#no-link-here)
   - [Among Us](#Among-Us)
-    *  [View Screenshots](#no-link-here)
+    * [View Screenshots](#no-link-here)
 
 </details>
 <details><summary>Anime Themes: </summary>
@@ -95,12 +104,15 @@ Sunrise](https://github.com/GitXpresso/ATTR/blob/main/imgs/WildSunrise.jpg?raw=t
 ![Leo](https://github.com/GitXpresso/ATTR/blob/main/imgs/leo.jpeg?raw=true)
 ### Lakes & Pines
 ![Lakes and Pines](https://github.com/GitXpresso/ATTR/blob/main/imgs/Lakes_Pines.jpg?raw=true)
-### Dark Matter
-![Dark Matter](https://github.com/GitXpresso/ATTR/blob/main/imgs/DarkMatter?raw=true)
 ### Day and Night
 ![Day and Night](https://github.com/GitXpresso/ATTR/blob/main/imgs/day_night.jpg?raw=true)
 ### Planetarium 🤖
 ![Planetarium](https://github.com/GitXpresso/ATTR/blob/main/imgs/planetarium.jpg?raw=true)
+## Space Theme:
+### Dark Matter
+![Dark Matter](https://github.com/GitXpresso/ATTR/blob/main/imgs/DarkMatter.png?aw=true)
+### Cosmaute
+![Cosmaute](https://github.com/GitXpresso/ATTR/blob/main/imgs/Cosmaute.png?raw=true)
 ## Gradient Themes:
 ### Actually Gradient
 ![Actually Gradient](https://github.com/GitXpresso/ATTR/blob/main/imgs/actuallygradient.png?raw=true)
