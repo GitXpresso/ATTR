@@ -50,7 +50,7 @@ _"🤖" = wallpaper used in the theme looks AI generated._
 - [Go-to: Space Themes](#Space-Themes)
   - [Dark Matter](#Dark-Matter)
     * [View Screenshots](#link-not-here)
-  - [Cosmaute](#Cosmaute)
+  - [Cosmonaute](#Cosmonaute)
     * [View Screenshots](#link-not-here)
 
 </details>
@@ -112,7 +112,7 @@ Sunrise](https://github.com/GitXpresso/ATTR/blob/main/imgs/WildSunrise.jpg?raw=t
 ### Dark Matter
 ![Dark Matter](https://github.com/GitXpresso/ATTR/blob/main/imgs/DarkMatter.png?aw=true)
 ### The Cosmonaute in the Universe
-[TheCosmonaute](https://github.com/gitxpresso/attr/blob/main/imgs/Cosmonaute.png?raw=true)
+[TheCosmonaute](https://raw.githubusercontent.com/gitxpresso/attr/refs/heads/main/imgs/Cosmonaute.png)
 ## Gradient Themes:
 ### Actually Gradient
 ![Actually Gradient](https://github.com/GitXpresso/ATTR/blob/main/imgs/actuallygradient.png?raw=true)
