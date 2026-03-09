@@ -111,8 +111,8 @@ Sunrise](https://github.com/GitXpresso/ATTR/blob/main/imgs/WildSunrise.jpg?raw=t
 ## Space Theme:
 ### Dark Matter
 ![Dark Matter](https://github.com/GitXpresso/ATTR/blob/main/imgs/DarkMatter.png?aw=true)
-### The Cosmonaute in the Universe
-[TheCosmonaute](https://raw.githubusercontent.com/gitxpresso/attr/refs/heads/main/imgs/Cosmonaute.png)
+### Cosmonaute
+[Cosmonaute](https://raw.githubusercontent.com/gitxpresso/attr/refs/heads/main/imgs/Cosmonaute.png)
 ## Gradient Themes:
 ### Actually Gradient
 ![Actually Gradient](https://github.com/GitXpresso/ATTR/blob/main/imgs/actuallygradient.png?raw=true)
