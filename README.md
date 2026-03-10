@@ -108,7 +108,7 @@ Sunrise](https://github.com/GitXpresso/ATTR/blob/main/imgs/WildSunrise.jpg?raw=t
 ![Day and Night](https://github.com/GitXpresso/ATTR/blob/main/imgs/day_night.jpg?raw=true)
 ### Planetarium 🤖
 ![Planetarium](https://github.com/GitXpresso/ATTR/blob/main/imgs/planetarium.jpg?raw=true)
-## Space Theme:
+## Space Themes:
 ### Dark Matter
 ![Dark Matter](https://github.com/GitXpresso/ATTR/blob/main/imgs/DarkMatter.png?aw=true)
 ### Cosmonaute
