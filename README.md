@@ -50,8 +50,6 @@ _"🤖" = wallpaper used in the theme looks AI generated._
 - [Go-to: Space Themes](#Space-Themes)
   - [Dark Matter](#Dark-Matter)
     * [View Screenshots](#link-not-here)
-  - [Cosmonaute](#Cosmonaute)
-    * [View Screenshots](#link-not-here)
 
 </details>
 
@@ -79,6 +77,8 @@ _"🤖" = wallpaper used in the theme looks AI generated._
   - [Lantern Rite](#Lantern-Rite)
     * [View Screenshots](#no-link-here)
   - [Hu Tao Simp](#Hu-Tap-Simp)
+    * [View Screenshots](#no-link-here)
+  - [Xiao Simp](#Xiao-Simp)
     * [View Screenshots](#no-link-here)
 
 </details>
@@ -111,8 +111,6 @@ Sunrise](https://github.com/GitXpresso/ATTR/blob/main/imgs/WildSunrise.jpg?raw=t
 ## Space Themes:
 ### Dark Matter
 ![Dark Matter](https://github.com/GitXpresso/ATTR/blob/main/imgs/DarkMatter.png?aw=true)
-### Cosmonaute
-[Cosmonaute](https://raw.githubusercontent.com/gitxpresso/attr/refs/heads/main/imgs/Cosmonaute.png)
 ## Gradient Themes:
 ### Actually Gradient
 ![Actually Gradient](https://github.com/GitXpresso/ATTR/blob/main/imgs/actuallygradient.png?raw=true)
@@ -126,5 +124,7 @@ Sunrise](https://github.com/GitXpresso/ATTR/blob/main/imgs/WildSunrise.jpg?raw=t
 ![Lantern Rite](https://github.com/GitXpresso/ATTR/blob/main/imgs/LanternRite.jpg?raw=true)
 ### Hu Tao Simp
 ![Hu Tao Simp](https://github.com/GitXpresso/ATTR/blob/main/imgs/HuTaoSimp.jpg?raw=true)
+### Xiao Simp
+![Xiao Simp](https://github.com/gitxpresso/ATTR/blob/main/imgs/xiaosimp.jpeg?raw=true)
 
 > _Made possible with this blog: https://voxelmanip.se/notes/recovering-expired-discord-attachment-cdn-links/ :3_
